@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there, I'm Otávio Augusto 👋
 I'm a junior developer, I know a little about frontend and I'm studying with a focus on backend
 - I'm currently studying TypeScript
 
