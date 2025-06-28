@@ -1,6 +1,5 @@
 # Hi there, I'm Otávio Augusto 👋
 I'm a junior developer
-- I'm currently studying TypeScript and React
 
 ## Some things
 <br>
